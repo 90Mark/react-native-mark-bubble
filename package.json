@@ -1,15 +1,14 @@
 {
   "name": "react-native-mark-bubble",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.3",
+  "description": "react native bubble like component",  
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "prop-types": "15.5.10",
     "react-native-root-siblings": "1.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/mark0012/react-native-mark-bubble/issues"
   }
 }
