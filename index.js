@@ -1,2 +1,2 @@
-import SeashellBubble from './lib/SeashellBubble';
-export default SeashellBubble;
+import * as Bubble from './lib/Bubble';
+export default Bubble;
