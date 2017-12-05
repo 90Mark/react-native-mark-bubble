@@ -2,7 +2,7 @@
 
 使用方法：
 
-npm install https://github.com/Mark0012/react-native-mark-bubble --save
+npm install https://github.com/90Mark/react-native-mark-bubble --save
 
 
 
